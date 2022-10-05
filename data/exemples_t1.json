@@ -1,0 +1,62 @@
+[
+    {
+        "S": "This is not a test.",
+        "N": "This is not NOT_a NOT_test ."
+    },
+    {
+        "S": "There is no flowery dialog, and time is not wasted.",
+        "N": "There is no NOT_flowery NOT_dialog , and time is not NOT_wasted ."
+    },
+    {
+        "S": "She did not promise to help him.",
+        "N": "She did not NOT_promise NOT_to NOT_help NOT_him ."
+    },
+    {
+        "S": "The King of France is not bald.",
+        "N": "The King of France is not NOT_bald ."
+    },
+    {
+        "S": "It is not so much a work of entertainment as it is unique study.",
+        "N": "It is not NOT_so NOT_much NOT_a NOT_work NOT_of NOT_entertainment as it is unique study ."
+    },
+    {
+        "S": "Mary did not complete the program but Nancy wrote the report.",
+        "N": "Mary did not NOT_complete NOT_the NOT_program but Nancy wrote the report ."
+    },
+    {
+        "S": "Not an accomplished dancer, he moved rather clumsily.",
+        "N": "Not NOT_an NOT_accomplished NOT_dancer , he moved rather clumsily ."
+    },
+    {
+        "S": "Not all participants liked this game.",
+        "N": "Not NOT_all NOT_participants liked this game ."
+    },
+    {
+        "S": "I do not think he is coming.",
+        "N": "I do not NOT_think NOT_he NOT_is NOT_coming ."
+    },
+    {
+        "S": "Mary did not give the solution to Paul.",
+        "N": "Mary did not NOT_give NOT_the NOT_solution NOT_to NOT_Paul ."
+    },
+    {
+        "S": "She claimed that Donald had not offered bribes to any official.",
+        "N": "She claimed that Donald had not NOT_offered NOT_bribes NOT_to NOT_any NOT_official ."
+    },
+    {
+        "S": "Not for the first time, he was surprised by this player.",
+        "N": "Not NOT_for NOT_the NOT_first NOT_time , he was surprised by this player ."
+    },
+    {
+        "S": "I would never do it even if I can.",
+        "N": "I would never do NOT_it even if I can ."
+    },
+    {
+        "S": "A decision is not expected until June.",
+        "N": "A decision is not NOT_expected NOT_until NOT_June ."
+    },
+    {
+        "S": "We do not like washing dishes which lead to the decision of buying a dishwasher.",
+        "N": "We do not NOT_like NOT_washing NOT_dishes which lead to the decision of buying a dishwasher ."
+    }
+]
