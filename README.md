@@ -1,10 +1,12 @@
 # Analyse de sentiment
 
-[Sentiment-analysis](https://github.com/isabelleysseric/Sentiment-analysis) (GitHub)
-&nbsp; • &nbsp;[Sentiment-analysis](https://github.com/isabelleysseric/Sentiment-analysis/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Sentiment-analysis">Sentiment-analysis</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Sentiment-analysis/wiki">Sentiment-analysis</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/><br/><br/>
+</p>
 <br/>
 <br/>
 
